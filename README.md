@@ -1,1 +1,1 @@
-# Happy-vs.-Sad---CNN-Image-Classifier
+# Happy-vs-Sad-CNN-Image-Classifier
