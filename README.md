@@ -11,7 +11,7 @@ This project implements a Convolutional Neural Network (CNN) for binary classifi
 - Keras
 - NumPy
 - Matplotlib
-- Google Images Dataset (link provided below)
+- [Images Dataset](link provided below)
 - Anaconda Navigator
 
 ## Installation
@@ -19,15 +19,15 @@ This project implements a Convolutional Neural Network (CNN) for binary classifi
 Install anaconda navigator for using Tensorflow:
 * You can refer to this [video](https://www.youtube.com/watch?v=Ejzubp-B83o&t=1165s) by Simplilearn to install tensorflow on Anaconda
   
-
-Install the required packages using the following command:
-
-```bash
-pip install -r requirements.txt
-```
+* Create a different environment on Anaconda and install Tensorflow and Jupyter Notebook:
+  ```bash
+   pip install jupyter notebook
+  ```
 
 ## Usage : 
 
-Clone this Repository :
+* Clone this Repository :
 ```bash
-git clone 
+git clone https://github.com/Vipsy-123/Happy-vs-Sad-CNN-Image-Classifier.git
+```
+* Copy the dataset from this Repository
