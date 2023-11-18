@@ -21,7 +21,7 @@ Install anaconda navigator for using Tensorflow:
   
 * Create a different environment on Anaconda :
 ```bash
- conda activate _your_env_name_
+ conda create _your_env_name_
 ```
 * Install Jupyter Notebook:
  ```bash
