@@ -49,8 +49,6 @@ git clone https://github.com/Vipsy-123/Happy-vs-Sad-CNN-Image-Classifier.git
 
 ```
 * Open Jupyter Labs and Copy this [notebook](https://github.com/Vipsy-123/Happy-vs-Sad-CNN-Image-Classifier/blob/main/Image_Sentiment_Classifier.ipynb)
-<br>
-<br>
 
 ## Credits
 
