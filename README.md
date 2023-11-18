@@ -17,7 +17,7 @@ This project implements a Convolutional Neural Network (CNN) for binary classifi
 ## Installation 
 
 Install anaconda navigator for using Tensorflow:
-* You can refer to this [video](https://www.youtube.com/watch?v=Ejzubp-B83o&t=1165s) by Simplilearn to install tensorflow on Anaconda
+* You can refer to this [video](https://www.youtube.com/watch?v=Ejzubp-B83o&t=1165s) by Simplilearn to install Anaconda Navigator
   
 * Create a different environment on Anaconda :
 ```bash
